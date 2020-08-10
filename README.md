@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![](https://chat.getloli.com/room/@Quan666.github/svg?width=600&height=280&limit=20&theme=light&title=Quan666@github:%20~&fontSize=13)](https://chat.getloli.com/room/@jQuan666.github?title=Quan666)
+[![](https://chat.getloli.com/room/@Quan666.github/svg?width=600&height=280&limit=20&theme=light&title=Quan666@github:%20~&fontSize=13)](https://chat.getloli.com/room/@Quan666.github?title=Quan666的留言板)
 
 <!--
 **Quan666/Quan666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
