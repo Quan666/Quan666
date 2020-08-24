@@ -1,7 +1,7 @@
 [![](https://count.getloli.com/get/@Quan666.github.readme)](https://count.getloli.com/)
 
 
-[![](https://chat.getloli.com/room/@Quan666.github/svg?width=600&height=280&limit=20&theme=light&title=Quan666@github:%20~&fontSize=13)](https://chat.getloli.com/room/@Quan666.github?title=Quan666的留言板)
+[![](https://chat.getloli.com/room/@Quan666.github/svg?width=600&height=100&limit=20&theme=light&title=Quan666@github:%20~&fontSize=13)](https://chat.getloli.com/room/@Quan666.github?title=Quan666的留言板)
 
 
  <!-- waka-box start -->
