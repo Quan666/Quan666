@@ -34,7 +34,8 @@
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/204ad9111ce51ffe775886f66538b500" target="_blank">📊 每周工作报告</a>
 ```text
-Still Gathering Statistics...
+HTML 🕓 3m ████████████████████████████▌░░░░░░░░ 77.2%
+PHP  🕓 1m ████████▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 22.8%
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
