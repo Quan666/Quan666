@@ -1,6 +1,7 @@
 [![](https://count.getloli.com/get/@Quan666.github.readme)](https://count.getloli.com/)
-
+ <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=quan666&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" alt="Quan666's github stats"/>
 #### Platform&Tools
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quan666&layout=compact" alt="Top Languages"/>
 
 [![](https://img.shields.io/badge/OS-CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.centos.org/)
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
@@ -26,12 +27,18 @@
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 
 
+
 ⬇️**点击下方图片留言**⬇️
 
-[![](https://chat.getloli.com/room/@Quan666.github/svg?width=600&height=100&limit=20&theme=light&title=Quan666@github:%20~&fontSize=13)](https://chat.getloli.com/room/@Quan666.github?title=Quan666的留言板)
+[![](https://chat.getloli.com/room/@Quan666.github/svg?width=480&height=200&limit=20&theme=light&title=Quan666@github:%20~&fontSize=13)](https://chat.getloli.com/room/@Quan666.github?title=Quan666的留言板)
 
 
- <!-- waka-box start -->
+
+<table>
+<tr>
+<td valign="top" width="50%">
+ 
+  <!-- waka-box start -->
 #### <a href="https://gist.github.com/204ad9111ce51ffe775886f66538b500" target="_blank">📊 每周工作报告</a>
 ```text
 TypeScript 🕓 11h36m ██████████████▉░░░░░░░░░░░░ 55.5%
@@ -43,8 +50,9 @@ Python     🕓 6m     ▏░░░░░░░░░░░░░░░░░░
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
 
-
-
+</td>
+</tr>
+</table>
 
 
 
