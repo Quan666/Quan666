@@ -34,7 +34,7 @@
   <!-- waka-box start -->
 #### <a href="https://gist.github.com/204ad9111ce51ffe775886f66538b500" target="_blank">📊 每周工作报告</a>
 ```text
-Python 🕓 32m ██████████████████████████████████100.0%
+Python 🕓 5m ███████████████████████████████████100.0%
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
