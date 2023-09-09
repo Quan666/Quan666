@@ -44,9 +44,6 @@ Still Gathering Statistics...
 </table>
 
 
-⬇️**点击下方图片留言**⬇️
-
-[![](https://chat.getloli.com/room/@Quan666.github/svg?width=480&height=200&limit=20&theme=light&title=Quan666@github:%20~&fontSize=13)](https://chat.getloli.com/room/@Quan666.github?title=Quan666的留言板)
 
 
 
